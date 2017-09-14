@@ -1,0 +1,12 @@
+{
+  "autoPin": true,
+  "pins": [
+    {
+      "package": "CMagickWand",
+      "reason": null,
+      "repositoryURL": "https://github.com/serhii-londar/CMagickWand.git",
+      "version": "0.0.1"
+    }
+  ],
+  "version": 1
+}

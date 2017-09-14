@@ -3,5 +3,8 @@
 import PackageDescription
 
 let package = Package(
-    name: "SwiftMagicWand"
+    name: "SwiftMagicWand",
+    dependencies: [
+        .Package(url: "https://github.com/serhii-londar/CMagickWand.git", majorVersion: 0)
+    ]
 )
